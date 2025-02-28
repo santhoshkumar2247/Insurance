@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import com.pom.BookPage;
 import com.pom.LoginPage;
 import com.pom.SearchPage;
-//pom
+
 public class PageObjectManager {
 	
 	public WebDriver driver;
